@@ -1,0 +1,5 @@
+C:\Users\Thormod\Documents\GitHub\SOLID\EP.SOLID\bin\Debug\EP.SOLID.exe
+C:\Users\Thormod\Documents\GitHub\SOLID\EP.SOLID\bin\Debug\EP.SOLID.pdb
+C:\Users\Thormod\Documents\GitHub\SOLID\EP.SOLID\obj\Debug\EP.SOLID.csprojResolveAssemblyReference.cache
+C:\Users\Thormod\Documents\GitHub\SOLID\EP.SOLID\obj\Debug\EP.SOLID.exe
+C:\Users\Thormod\Documents\GitHub\SOLID\EP.SOLID\obj\Debug\EP.SOLID.pdb
